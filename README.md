@@ -15,7 +15,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:5180](http://localhost:5180) (or the port in `vite.config.ts`).
+Open [http://localhost:4379](http://localhost:4379).
 
 ```bash
 npm run build    # production build
